@@ -6,3 +6,7 @@
 
 
 # 网络直播地址:https://mirror.ghproxy.com/https://raw.githubusercontent.com/daymissed/iptv/main/iptv.m3u
+
+## 更新日志
+#  2024-05-21
+更新央视 CHC动作电影、CHC家庭影院、CHC影迷电影三个频道IPV6地址及IHOT部分IPV6频道.只有网络为IPV6地址才可以播放。
